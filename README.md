@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Freelance+Student+Web+Developer;Information+Technology+Student;Building+Solutions+that+Matter;I'm+Open+for+Freelancing" alt="Typing SVG" />
   
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-2196F3?style=flat-square)](https://www.linkedin.com/in/jan-russel-peñafiel-a1799036b)
-  [![Resume](https://img.shields.io/badge/📄_Resume-View_Complete_PDF-2196F3?style=flat-square)](./resume.pdf)
+  [![Resume](https://img.shields.io/badge/📄_Resume-View_Complete_PDF-2196F3?style=flat-square)](./resume.pdf?download)
 </div>
 
 <div align="center">
@@ -64,7 +64,7 @@ achievements: ["Founded CTRL J Marketplace Company while being a student" ,
 ## 📄 Resume 
 
 <div align="center">
-  <a href="./resume.pdf">
+  <a href="./resume.pdf" download>
     <img src="https://img.shields.io/badge/📋_My_Resume-View_Complete_PDF-2196F3?style=for-the-badge" alt="Resume" />
   </a>
 </div>
