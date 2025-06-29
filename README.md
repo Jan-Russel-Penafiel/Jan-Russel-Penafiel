@@ -34,7 +34,8 @@ fields_of_interests:
   ]
 currently_learning: ["Advanced PHP", "Modern JavaScript", "System Architecture"]
 hobbies: ["Coding", "Open Source", "Problem Solving"]
-achievements: ["Founded CTRL J Marketplace Company while being a student" , "Successfully deployed Electronic Health Record System for school clinic management"]
+achievements: ["Founded CTRL J Marketplace Company while being a student" ,
+"Successfully deployed Electronic Health Record System for school clinic management"]
 ```
 
 ## 🚀 My Web Development Journey
