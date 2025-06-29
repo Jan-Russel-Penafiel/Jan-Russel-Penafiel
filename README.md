@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Freelance+Student+Web+Developer;Information+Technology+Student;Building+Solutions+that+Matter;I'm+Open+for+Freelancing" alt="Typing SVG" />
   
- 
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-2196F3?style=flat-square)](https://www.linkedin.com/in/jan-russel-peñafiel-a1799036b)
+  [![Resume](https://img.shields.io/badge/📄_Resume-View_Complete_PDF-2196F3?style=flat-square)](./resume.pdf)
 </div>
 
 <div align="center">
@@ -37,6 +37,14 @@ hobbies: ["Coding", "Open Source", "Problem Solving"]
 achievements: ["Founded CTRL J Marketplace Company while being a student" ,
 "Successfully deployed Electronic Health Record System for school clinic management"]
 ```
+
+## 📄 Resume 
+
+<div align="center">
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/📋_My_Resume-View_Complete_PDF-2196F3?style=for-the-badge" alt="Resume" />
+  </a>
+</div>
 
 ## 🚀 My Web Development Journey
 
@@ -380,7 +388,7 @@ achievements: ["Founded CTRL J Marketplace Company while being a student" ,
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/russelicioush)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janrusselpenafiel01172005@gmail.com)
-[![Phone](https://img.shields.io/badge/_Phone:+63_967_772_6912-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639677726912)
+[![Phone](https://img.shields.io/badge/📞_Call:_+63_967_772_6912-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+639677726912)
 
 </div>
 
