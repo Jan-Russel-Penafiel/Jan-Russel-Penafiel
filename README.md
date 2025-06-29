@@ -29,7 +29,8 @@ fields_of_interests:
     "Web Development",
     "Healthcare Systems",
     "Government Services",
-    "Educational Technology"
+    "Educational Technology",
+    "DevOps & Networking"
   ]
 currently_learning: ["Advanced PHP", "Modern JavaScript", "System Architecture"]
 hobbies: ["Coding", "Open Source", "Problem Solving"]
