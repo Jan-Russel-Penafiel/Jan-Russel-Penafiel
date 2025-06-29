@@ -12,6 +12,41 @@
   <img src="https://img.shields.io/badge/📍_Location-Panay,_Santo_Niño,_South_Cotabato-2196F3?style=flat-square" alt="Location" />
 </div>
 
+## 💫 Portfolio Summary
+
+> "Transforming ideas into impactful digital solutions while pursuing academic excellence"
+
+### 🎯 Quick Overview
+- 👨‍💻 Freelance Student Web Developer specializing in healthcare and government systems
+- 🎓 3rd year IT student at Sultan Kudarat State University
+- 🏢 Founder of CTRL J MARKPLACE COMPANY
+- 💼 Successfully delivered 15+ web systems
+- 🌟 Expertise in PHP, MySQL, and web technologies
+
+### 🏆 Key Achievements
+- 📈 Built a successful freelance business while studying
+- 🏥 Deployed healthcare management systems
+- 🏛️ Developed government service platforms
+- 📱 Created educational technology solutions
+- 💰 Generated significant project revenue
+
+### 💡 What I Offer
+- 🎨 Custom Web Development Solutions
+- 🔧 System Architecture & Implementation
+- 📊 Database Design & Management
+- 🤝 Client-Focused Project Management
+- 📱 Responsive & Modern Web Applications
+
+### 🎯 Current Focus
+- 📚 Advancing technical skills in modern web technologies
+- 🌱 Expanding business operations
+- 🔍 Seeking challenging project opportunities
+- 📈 Growing professional network
+
+<div align="center">
+  <i>Let's collaborate to bring your web development ideas to life!</i>
+</div>
+
 ## 🚀 About Me
 
 ```yaml
