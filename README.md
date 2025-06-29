@@ -14,34 +14,18 @@
 
 ## 💫 Portfolio Summary
 
-> "Transforming ideas into impactful digital solutions while pursuing academic excellence"
+<div align="center">
+  <b>Freelance Student Web Developer | Founder of CTRL J MARKPLACE COMPANY</b>
+  <br/>
+  <i>Transforming ideas into impactful digital solutions while pursuing academic excellence</i>
+</div>
 
-### 🎯 Quick Overview
-- 👨‍💻 Freelance Student Web Developer specializing in healthcare and government systems
-- 🎓 3rd year IT student at Sultan Kudarat State University
-- 🏢 Founder of CTRL J MARKPLACE COMPANY
-- 💼 Successfully delivered 15+ web systems
-- 🌟 Expertise in PHP, MySQL, and web technologies
-
-### 🏆 Key Achievements
-- 📈 Built a successful freelance business while studying
-- 🏥 Deployed healthcare management systems
-- 🏛️ Developed government service platforms
-- 📱 Created educational technology solutions
-- 💰 Generated significant project revenue
-
-### 💡 What I Offer
-- 🎨 Custom Web Development Solutions
-- 🔧 System Architecture & Implementation
-- 📊 Database Design & Management
-- 🤝 Client-Focused Project Management
-- 📱 Responsive & Modern Web Applications
-
-### 🎯 Current Focus
-- 📚 Advancing technical skills in modern web technologies
-- 🌱 Expanding business operations
-- 🔍 Seeking challenging project opportunities
-- 📈 Growing professional network
+### 🎯 Highlights
+- 👨‍💻 Specialized in Healthcare Systems & Government Services
+- 🏆 Successfully Delivered 15+ Web Projects
+- 🎓 3rd Year IT Student at SKSU
+- 💼 Expertise: PHP, MySQL, Web Technologies
+- 🌱 Open for Freelance Projects
 
 <div align="center">
   <i>Let's collaborate to bring your web development ideas to life!</i>
