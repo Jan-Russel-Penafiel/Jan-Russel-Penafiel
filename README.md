@@ -380,7 +380,7 @@ achievements: ["Founded CTRL J Marketplace Company while being a student" ,
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/russelicioush)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janrusselpenafiel01172005@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_Phone:+63_967_772_6912-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639677726912)
+[![Phone](https://img.shields.io/badge/Phone:+63_967_772_6912-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639677726912)
 
 </div>
 
