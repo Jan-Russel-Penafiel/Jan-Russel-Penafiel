@@ -1,19 +1,23 @@
 # <div align="center">👨‍💻 Jan Russel E. Peñafiel</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Freelance+Student+Web+Developer;Information+Technology+Student;Building+Solutions+that+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Freelance+Student+Web+Developer;Information+Technology+Student;Building+Solutions+that+Matter;I'm+Open+for+Freelancing" alt="Typing SVG" />
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=Jan-Russel-Penafiel&color=2196F3&style=flat-square&label=Profile+Views)](https://github.com/Jan-Russel-Penafiel)
-  [![GitHub followers](https://img.shields.io/github/followers/Jan-Russel-Penafiel?label=Follow&style=flat-square&logo=github&color=2196F3)](https://github.com/Jan-Russel-Penafiel)
-  [![GitHub Stars](https://img.shields.io/github/stars/Jan-Russel-Penafiel?style=flat-square&logo=github&color=2196F3)](https://github.com/Jan-Russel-Penafiel)
+ 
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-2196F3?style=flat-square)](https://www.linkedin.com/in/jan-russel-peñafiel-a1799036b)
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏢_Company-CTRL_J_MARKPLACE_COMPANY-2196F3?style=flat-square" alt="Company" />
+  <img src="https://img.shields.io/badge/📍_Location-Panay,_Santo_Niño,_South_Cotabato-2196F3?style=flat-square" alt="Location" />
 </div>
 
 ## 🚀 About Me
 
 ```yaml
 name: Jan Russel E. Peñafiel
-location: Sultan Kudarat, Philippines
 current_job: Freelance Student Web Developer
+founder_of: CTRL J Marketplace Company
 education:
   [
     "3rd year Information Technology Student at Sultan Kudarat State University",
@@ -29,6 +33,7 @@ fields_of_interests:
   ]
 currently_learning: ["Advanced PHP", "Modern JavaScript", "System Architecture"]
 hobbies: ["Coding", "Open Source", "Problem Solving"]
+achievements: ["Founded CTRL J Marketplace Company while being a student"]
 ```
 
 ## 🚀 My Web Development Journey
