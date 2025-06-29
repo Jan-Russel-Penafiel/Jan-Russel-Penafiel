@@ -12,7 +12,11 @@
   <img src="https://img.shields.io/badge/📍_Location-Panay,_Santo_Niño,_South_Cotabato-2196F3?style=flat-square" alt="Location" />
 </div>
 
+<div align="center">
+
 ## 💫 Portfolio Summary
+
+</div>
 
 <div align="center">
   <b>Freelance Student Web Developer | Founder of CTRL J MARKPLACE COMPANY</b>
