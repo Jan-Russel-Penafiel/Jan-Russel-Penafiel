@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏢_Company-CTRL_J_MARKPLACE_COMPANY-2196F3?style=flat-square" alt="Company" />
+  <img src="https://img.shields.io/badge/🏢_Company-CTRL_J_MARKETPLACE_COMPANY-2196F3?style=flat-square" alt="Company" />
   <img src="https://img.shields.io/badge/📍_Location-Panay,_Santo_Niño,_South_Cotabato-2196F3?style=flat-square" alt="Location" />
 </div>
 
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <b>Freelance Student Web Developer | Founder of CTRL J MARKPLACE COMPANY</b>
+  <b>Freelance Student Web Developer | Founder of CTRL J MARKETPLACE </b>
   <br/>
   <i>Transforming ideas into impactful digital solutions while pursuing academic excellence</i>
 </div>
@@ -40,7 +40,7 @@
 ```yaml
 name: Jan Russel E. Peñafiel
 current_job: Freelance Student Web Developer
-founder_of: CTRL J Marketplace Company
+founder_of: CTRL J Marketplace 
 education:
   [
     "3rd year Information Technology Student at Sultan Kudarat State University",
