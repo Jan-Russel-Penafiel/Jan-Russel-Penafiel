@@ -5,7 +5,60 @@
   
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-2196F3?style=flat-square)](https://www.linkedin.com/in/jan-russel-peñafiel-a1799036b)
   [![Resume](https://img.shields.io/badge/📄_Resume-View_Complete_PDF-2196F3?style=flat-square)](./resume.pdf?download)
-  
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏢_Company-CTRL_J-2196F3?style=flat-square" alt="Company" />
+  <img src="https://img.shields.io/badge/📍_Location-Panay,_Santo_Niño,_South_Cotabato-2196F3?style=flat-square" alt="Location" />
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### IDEs & Tools
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</div>
+
+### 🎯 Target Tech Stack
+<div align="center">
+
+### Backend & Frameworks
+![PHP](https://img.shields.io/badge/Vanilla_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend & JavaScript
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### DevOps & Security
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00A4EF?style=for-the-badge&logo=cisco&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+
+</div>
 
 <div align="center">
 
@@ -14,7 +67,7 @@
 </div>
 
 <div align="center">
-  <b>Freelance Student Web Developer | Founder of CTRL J Company </b>
+  <b>Freelance Student Web Developer | Founder of CTRL J</b>
   <br/>
   <i>Transforming ideas into impactful digital solutions while pursuing academic excellence</i>
 </div>
@@ -35,7 +88,7 @@
 ```yaml
 name: Jan Russel E. Peñafiel
 current_job: Freelance Student Web Developer
-founder_of: CTRL J Company
+founder_of: CTRL J
 education:
   [
     "3rd year Information Technology Student at Sultan Kudarat State University",
@@ -52,7 +105,7 @@ fields_of_interests:
   ]
 currently_learning: ["Advanced PHP", "Modern JavaScript", "System Architecture"]
 hobbies: ["Coding", "Open Source", "Problem Solving"]
-achievements: ["Founded CTRL J Marketplace while being a student" ,
+achievements: ["Founded CTRL J while being a student" ,
 "Successfully deployed Electronic Health Record System for school clinic management"]
 ```
 
@@ -102,54 +155,6 @@ achievements: ["Founded CTRL J Marketplace while being a student" ,
   - 💪 Continuing to support my family through technology
 
 > "This is just the beginning of my journey. Every project, every challenge, and every success fuels my passion to grow further in web development. The road ahead is full of opportunities, and I'm ready to embrace them all."
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### IDEs & Tools
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-</div>
-
-### 🎯 Target Tech Stack
-<div align="center">
-
-### Backend & Frameworks
-![PHP](https://img.shields.io/badge/Vanilla_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Frontend & JavaScript
-![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### DevOps & Security
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00A4EF?style=for-the-badge&logo=cisco&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
-
-</div>
 
 ## 🎯 Featured Projects
 
