@@ -1,423 +1,92 @@
-# <div align="center">👨‍💻 Jan Russel E. Peñafiel</div>
+# Jan Russel E. Peñafiel
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Freelance+Student+Web+Developer;Information+Technology+Student;Building+Solutions+that+Matter;I'm+Open+for+Freelancing" alt="Typing SVG" />
-  
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-2196F3?style=flat-square)](https://www.linkedin.com/in/jan-russel-peñafiel-a1799036b)
-  [![Resume](https://img.shields.io/badge/📄_Resume-View_Complete_PDF-2196F3?style=flat-square)](./resume.pdf?download)
-</div>
+Freelance student web developer · Founder of Asyncs Innovations · Panay, Santo Niño, South Cotabato
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🏢_Company-CTRL_J-2196F3?style=flat-square" alt="Company" />
-  <img src="https://img.shields.io/badge/📍_Location-Panay,_Santo_Niño,_South_Cotabato-2196F3?style=flat-square" alt="Location" />
-</div>
+**Quick links:** [GitHub](https://github.com/Jan-Russel-Penafiel) · [LinkedIn](https://www.linkedin.com/in/jan-russel-peñafiel-a1799036b) · [Resume (PDF)](./resume.pdf)
 
-## 💻 Tech Stack
+## What I Do
+- Freelance student web developer building PHP/MySQL systems
+- Information Technology student at SKSU (3rd year)
+- Focused on healthcare, government, and education solutions
 
-<div align="center">
+## Tech Stack
+**Current:** PHP • CodeIgniter • JavaScript • HTML • CSS • MySQL • Apache • Git/GitHub • VS Code • Windows
 
-### Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Target/expanding:** Laravel • ASP.NET • React • Svelte • Supabase • Firebase • Docker
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## Portfolio Summary
+- Healthcare systems specialist & government services experience
+- 15+ web projects delivered while studying
+- Founder of Asyncs Innovations
+- Open for freelance collaborations
+- PHP & MySQL focused, with growing JS frontend skills
 
-### IDEs & Tools
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-</div>
+## About Me
+- **Personal:** Jan Russel E. Peñafiel — Freelance Student Developer, Founder of Asyncs Innovations
+- **Education:** 3rd Year IT Student at Sultan Kudarat State University; passionate about web development
+- **Focus areas:** Healthcare systems, government services, educational technology
+- **Key achievements:** Founded Asyncs Innovations as a student; deployed electronic health record system; 15+ successful web projects
 
-### 🎯 Target Tech Stack
-<div align="center">
+## Web Development Journey
+- **Year 1:** Discovered PHP & MySQL after early C++ struggles
+- **Year 2:** Built 15+ systems; earned 13k from student projects
+- **Year 3:** Passed 100k+ total earnings while studying
+- **Year 4 (current goal):** Deploying SKSU Access Campus System with certification
 
-### Backend & Frameworks
-![PHP](https://img.shields.io/badge/Vanilla_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## Featured Projects (Flagship)
 
-### Frontend & JavaScript
-![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**Monitoring of Liquidation of Scholarship Recipients**
 
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Scholarship Monitoring](./uploads/project_694bab8882ff38.42646581.png)
 
-### DevOps & Security
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00A4EF?style=for-the-badge&logo=cisco&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+Sultan Kudarat State University system for tracking scholarship liquidation with reporting and analytics. Badges: Scholarship management • Liquidation tracking • Reports & analytics • SKSU official system.
 
-</div>
+**Russel's Chicken Delights HR System**
 
-<div align="center">
+![Russel's HR](./RUSSELS.png)
 
-## 💫 Portfolio Summary
+Full HR suite for a restaurant chain covering employees, time tracking, scheduling, and payroll. Badges: Employee management • Time tracking • Scheduling • Payroll.
 
-</div>
+**KES-SMART**
 
-<div align="center">
-  <b>Freelance Student Web Developer | Founder of CTRL J</b>
-  <br/>
-  <i>Transforming ideas into impactful digital solutions while pursuing academic excellence</i>
-</div>
+![KES-SMART](./uploads/project_69515e51959685.44482385.png)
 
-### 🎯 Highlights
-- 👨‍💻 Specialized in Healthcare Systems & Government Services
-- 🏆 Successfully Delivered 15+ Web Projects
-- 🎓 3rd Year IT Student at SKSU
-- 💼 Expertise: PHP, MySQL, Web Technologies
-- 🌱 Open for Freelance Projects
+Student monitoring with QR attendance and SMS notifications. Badges: QR attendance • SMS alerts • Multi-user.
 
-<div align="center">
-  <i>Let's collaborate to bring your web development ideas to life!</i>
-</div>
+**BHC CONNECT**
 
-## 🚀 About Me
+![BHC CONNECT](./uploads/project_69515e87a79db6.99159624.png)
 
-```yaml
-name: Jan Russel E. Peñafiel
-current_job: Freelance Student Web Developer
-founder_of: CTRL J
-education:
-  [
-    "3rd year Information Technology Student at Sultan Kudarat State University",
-    "Passionate about Web Development",
-    "Continuous Learner"
-  ]
-fields_of_interests:
-  [
-    "Web Development",
-    "Healthcare Systems",
-    "Government Services",
-    "Educational Technology",
-    "DevOps & Networking"
-  ]
-currently_learning: ["Advanced PHP", "Modern JavaScript", "System Architecture"]
-hobbies: ["Coding", "Open Source", "Problem Solving"]
-achievements: ["Founded CTRL J while being a student" ,
-"Successfully deployed Electronic Health Record System for school clinic management"]
-```
+Digital barangay health center (patients, appointments, medicines). Badges: Patient records • Appointments • Medicine tracker.
 
-## 📄 Resume 
+**HealthConnect**
 
-<div align="center">
-  <a href="./resume.pdf" download>
-    <img src="https://img.shields.io/badge/📋_My_Resume-View_Complete_PDF-2196F3?style=for-the-badge" alt="Resume" />
-  </a>
-</div>
+![HealthConnect](./uploads/project_69515eab615d28.86728134.png)
 
-## 🚀 My Web Development Journey
+Mobile health center app with patient management, immunization, and analytics. Badges: Patient management • Immunization • Analytics.
 
-### 💫 From Challenges to Triumph
+**ImmuCare**
 
-> "Every expert was once a beginner. My journey proves that passion can overcome any obstacle."
+![ImmuCare](./IMMUCARE.png)
 
-#### 🌱 First Year - The Beginning
-- **First Semester**: Faced challenges with mathematics and C++ programming
-- **Turning Point**: Discovered PHP & MySQL in second semester
-- **Key Discovery**: Found my passion in web development fundamentals
-- **Breakthrough**: Realized my natural understanding of web technologies
+Smart immunization registry with scheduling, alerts, dashboards, and reports. Badges: Auto scheduling • Smart alerts • Tracking dashboard • Progress reports.
 
-#### 💼 Second Year - The Rise
-- **First Semester Achievements**:
-  - 🎯 Launched freelance web development services
-  - 👥 Built 15+ web systems for classmates
-  - 💰 Generated 13k from student projects
-- **Second Semester Growth**:
-  - 📈 Increased project rates
-  - 🎓 Started taking capstone project clients
-  - 💼 Minimum project rate: 10k
+**AidTrack**
 
-#### 🌟 Current Success
-- **Third Year Milestones**:
-  - 📊 Expected total earnings: ~100k
-  - 🏠 Contributing to household expenses
-  - 👨‍👩‍👦 Supporting my mother at a young age
-  - 💪 Proving that determination leads to success
+![AidTrack](./uploads/project_69515ed6960390.38492386.png)
 
-#### 🎯 The Journey Continues
-- **Future Aspirations**:
-  - 🚀 Expanding freelance services beyond academic projects
-  - 📚 Mastering advanced web technologies
-  - 💡 Building more impactful solutions
-  - 🌐 Growing my professional network
-  - 💪 Continuing to support my family through technology
+Aid distribution tracking with SMS alerts, analytics, and feedback for Barangay Bual. Badges: Aid tracking • SMS alerts • Analytics • Feedback.
 
-> "This is just the beginning of my journey. Every project, every challenge, and every success fuels my passion to grow further in web development. The road ahead is full of opportunities, and I'm ready to embrace them all."
+**BM-SCaPIS**
 
-## 🎯 Featured Projects
+![BM-SCaPIS](./uploads/project_69515f4f782610.95627406.png)
 
-<div align="center">
+Smart clearance and permit issuance with online forms, status tracking, scheduling, and reporting. Badges: Online forms • Status tracking • Scheduling • Reports.
 
-### 🌟 Flagship Projects 🌟
-
-</div>
-
-### 💼 Business Solutions
-- **[Russel's Chicken Delights HR System](https://github.com/Jan-Russel-Penafiel)**
-  > 🏢 Comprehensive HR Management System for Restaurant Chain
-  > 
-  > ⚡ Core HR Features:
-  > - 👥 Employee Database Management
-  > - ⏰ Time & Attendance Tracking
-  > - 📅 Smart Shift Scheduling
-  > - 📊 Performance Management
-  > - 🌟 Leave Management System
-  > 
-  > 💰 Administrative Tools:
-  > - 💵 Payroll Integration
-  > - 📄 Document Management
-  > - ✅ Compliance Monitoring
-  > - 👤 Onboarding Automation
-  > 
-  > 📊 Analytics & Reporting:
-  > - 📈 Performance Metrics
-  > - 👥 Staff Analytics
-  > - 💼 HR Operations Reports
-  > - ⏰ Attendance Insights
-  > 
-  > 🎯 Business Objectives:
-  > - ⚡ Operational Efficiency
-  > - 📱 Streamlined Processes
-  > - 📊 Data-Driven Decisions
-  > - ✅ Regulatory Compliance
-
-### 📱 Smart Applications
-- **[KES-SMART](https://github.com/Jan-Russel-Penafiel)**
-  > 📱 Student Monitoring Application with Real-Time QR and SMS Notifications
-  > 
-  > 👥 Multi-User Interface for Admin, Teachers, Students & Parents
-  > 
-  > ⚡ Key Features:
-  > - 🔐 User Account Management
-  > - 📱 Mobile QR Code Attendance System
-  > - 👀 Real-Time Parent Attendance Viewing
-  > - 📊 Automated Evaluation System
-  > - 📨 Instant SMS Notifications to Parents
-  > 
-  > 📋 Comprehensive Reports:
-  > - 📚 Section-wise Student Lists
-  > - 📝 Student Information Sheets
-  > - 🎫 QR Code Generation
-  > - 📊 Detailed Attendance Records
-  >   - Per Section Analysis
-  >   - Individual Student Tracking
-
-- **[HealthConnect](https://github.com/Jan-Russel-Penafiel)**
-  > 🏥 Smart Mobile Application for Barangay Health Center
-  > 
-  > 📍 Serving Brgy. Poblacion, Pres. Quirino, Sultan Kudarat
-  > 
-  > ⚡ Core Features:
-  > - 👥 Health Worker Account Management
-  > - 📋 Comprehensive Patient Records System
-  > - 📅 Appointment Scheduling with SMS Notifications
-  > - 💉 Immunization Tracking (Children & Adults)
-  > 
-  > 📊 Interactive Dashboard:
-  > - 📈 Appointment Analytics
-  > - 👥 Patient Statistics
-  > - 📋 Daily Records Tracking
-  > 
-  > 📑 Report Generation:
-  > - 📅 Appointment Lists & Slips
-  > - 👥 Patient Directory
-  > - 🏥 Medical Records
-  > 
-  > 🎯 System Qualities:
-  > - ✅ High Accuracy
-  > - 🔒 Enhanced Security
-  > - ⚡ Robust Functionality
-  > - 📊 Proven Effectiveness
-
-- **[BHC CONNECT](https://github.com/Jan-Russel-Penafiel)**
-  > 🏥 Digital Barangay Health Center Services Information System
-  > 
-  > ⚡ Core Features:
-  > - 👥 Health Worker Account Management
-  > - 📋 Complete Patient Records System
-  > - 📅 Smart Appointment Scheduling
-  > - 📨 Automated Email Notifications
-  > - 💊 Medicine Dispensing Tracker
-  > - 💉 Immunization Schedule Management
-  > 
-  > 💬 Interactive Features:
-  > - 📱 Real-time Patient Chat
-  > - 📝 Feedback System
-  > - 🎫 Automatic Appointment Slip Generation
-  > 
-  > 📊 Analytics Dashboard:
-  > - 📈 Appointment Statistics
-  > - 👥 Patient Demographics
-  > - 📦 Medicine Inventory Levels
-  > 
-  > 📑 Comprehensive Reports:
-  > - 📅 Appointment Listings
-  > - 👥 Patient Directory
-  > - 🏥 Medical Records
-  > - 💊 Medicine Inventory Status
-
-### 🏥 Healthcare Systems
-- **[ImmuCare](https://github.com/Jan-Russel-Penafiel)**
-  > 💉 Smart Immunization Registry with Automated Scheduling
-  > 
-  > 📱 Features: Automated Scheduling, Alert System, Digital Records
-  > 
-  > 🏆 Streamlines vaccination tracking and management
-
-### 🏛️ Government Services
-- **[AidTrack](https://github.com/Jan-Russel-Penafiel)**
-  > 📊 Real-Time Aid Monitoring and Distribution System for Barangay Bual
-  > 
-  > 🔐 Security Features:
-  > - 👥 Multi-User Account Management
-  > - 🔒 Secure Authentication System
-  > - ✅ Beneficiary Verification System
-  > 
-  > ⚡ Core Functionalities:
-  > - 📦 Automated Aid Distribution Tracking
-  > - 🔄 Real-Time Distribution Progress Monitoring
-  > - 📱 SMS/Mobile Alert Notifications
-  > - 📄 Digital Receipt & Acknowledgement System
-  > 
-  > 📊 Analytics Dashboard:
-  > - 📈 Aid Impact Assessment
-  > - 📊 Resource Utilization Tracking
-  > - 📋 Distribution Progress Reports
-  > 
-  > 💡 User-Centric Features:
-  > - 💬 Feedback & Complaints System
-  > - 📱 Beneficiary Support Portal
-  > - 📍 Collection Point Information
-  > 
-  > 🎯 System Evaluation Metrics:
-  > - ⚡ Functionality
-  > - 🔍 Accessibility
-  > - 🔒 Security
-  > - 👍 Acceptability
-  > - 📊 Efficacy
-
-- **[BM-SCaPIS](https://github.com/Jan-Russel-Penafiel)**
-  > 🏢 Barangay Malangit Smart Clearance and Permit Issuance System
-  > 
-  > 👥 Resident Features:
-  > - 📝 Online Registration & Application
-  > - 📱 Real-Time Application Tracking
-  > - 📨 SMS/Email Status Notifications
-  > - 📅 Document Pickup Scheduling
-  > 
-  > 👨‍💼 Official's Dashboard:
-  > - 👥 Resident Profile Management
-  > - ✅ Application Review & Approval
-  > - 📅 Appointment Management
-  > - 📊 Document Status Monitoring
-  > 
-  > 📊 Analytics & Reports:
-  > - 📈 Application Status Analytics
-  >   - By Date
-  >   - By Purpose
-  >   - By Applicant Type
-  > - 📑 Document Issuance Summary
-  > - 📋 Transaction Logs (Daily/Weekly/Monthly)
-  > - 📍 Zone-wise Application Statistics
-  > - 📊 Popular Permit Analysis
-  > 
-  > 🎯 System Evaluation:
-  > - ⚡ Functionality
-  > - 👥 Usability & User Acceptance
-  > - ✅ Accuracy & Reliability
-  > 
-  > 🔔 Smart Notifications:
-  > - 📱 Application Updates
-  > - ✅ Approval Notifications
-  > - 📦 Document Availability Alerts
-
-### 🔥 Side Projects
-
-#### 🏥 Healthcare & Medical Systems
-- **[Electronic Health Record System](https://github.com/Jan-Russel-Penafiel)**
-  > 📊 Digital solution for patient records management
-  > 
-  > 🏆 Features: Patient Records, Medical History, Prescription Management
-
-#### 📚 Educational Systems
-- **[SKSU Attendance System](https://github.com/Jan-Russel-Penafiel)**
-  > 📱 Digital attendance tracking for Sultan Kudarat State University
-  > 
-  > ✨ Real-time attendance monitoring and reporting
-
-- **[St. Albert Student Attendance System](https://github.com/Jan-Russel-Penafiel)**
-  > 🎓 Automated attendance tracking solution
-  > 
-  > 📊 Comprehensive attendance analytics and reports
-
-- **[School Grading and Reporting System](https://github.com/Jan-Russel-Penafiel)**
-  > 📝 Digital grade management and reporting
-  > 
-  > 📈 Features: Grade Computation, Progress Reports, Academic Analytics
-
-#### 🏢 Business Management Systems
-- **[Employee Time Tracking System](https://github.com/Jan-Russel-Penafiel)**
-  > ⏰ Efficient employee time management solution
-  > 
-  > 📊 Features: Time Logs, Attendance Reports, Leave Management
-
-- **[Catering Service Management System](https://github.com/Jan-Russel-Penafiel)**
-  > 🍽️ Complete catering business management solution
-  > 
-  > 📋 Features: Menu Planning, Event Booking, Inventory Management
-
-#### 🎫 Event & Ticketing Systems
-- **[Online Event Registration System](https://github.com/Jan-Russel-Penafiel)**
-  > 🎉 Digital event registration and management
-  > 
-  > 🎟️ Features: Event Creation, Registration Tracking, Payment Integration
-
-- **[Airport Ticketing System](https://github.com/Jan-Russel-Penafiel)**
-  > ✈️ Comprehensive flight booking solution
-  > 
-  > 🎫 Features: Flight Booking, Seat Selection, Payment Processing
-
-- **[Bus Ticketing System](https://github.com/Jan-Russel-Penafiel)**
-  > 🚌 Digital bus ticket booking platform
-  > 
-  > 🎟️ Features: Route Management, Seat Booking, Schedule Tracking
-
-#### 🏛️ Institutional Management
-- **[Visitor Tracking and Management System](https://github.com/Jan-Russel-Penafiel)**
-  > 👥 Digital visitor management solution
-  > 
-  > 📱 Features: Visitor Logs, Access Control, Reports Generation
-
-- **[Church Management System](https://github.com/Jan-Russel-Penafiel)**
-  > ⛪ Comprehensive church administration platform
-  > 
-  > 📊 Features: Member Management, Event Planning, Donation Tracking
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/russelicioush)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janrusselpenafiel01172005@gmail.com)
-[![Phone](https://img.shields.io/badge/📞_Call:_+63_967_772_6912-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+639677726912)
-
-</div>
+## Contact
+- **Facebook:** https://www.facebook.com/russelicioush
+- **Email:** janrusselpenafiel01172005@gmail.com
+- **Phone:** +63 967 772 6912
 
 ---
-<div align="center">
-  <sub>Last updated: 2024-03-19</sub>
-  
-  ![Made with ❤️ by Jan Russel](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Jan%20Russel-blue)
-</div>
+Last updated: 2024-03-19 · Made with care by Jan Russel
