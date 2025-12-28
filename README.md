@@ -34,54 +34,14 @@ Freelance student web developer · Founder of Asyncs Innovations · Panay, Santo
 - **Year 4 (current goal):** Deploying SKSU Access Campus System with certification
 
 ## Featured Projects (Flagship)
-
-**Monitoring of Liquidation of Scholarship Recipients**
-
-![Scholarship Monitoring](./uploads/project_694bab8882ff38.42646581.png)
-
-Sultan Kudarat State University system for tracking scholarship liquidation with reporting and analytics. Badges: Scholarship management • Liquidation tracking • Reports & analytics • SKSU official system.
-
-**Russel's Chicken Delights HR System**
-
-![Russel's HR](./RUSSELS.png)
-
-Full HR suite for a restaurant chain covering employees, time tracking, scheduling, and payroll. Badges: Employee management • Time tracking • Scheduling • Payroll.
-
-**KES-SMART**
-
-![KES-SMART](./uploads/project_69515e51959685.44482385.png)
-
-Student monitoring with QR attendance and SMS notifications. Badges: QR attendance • SMS alerts • Multi-user.
-
-**BHC CONNECT**
-
-![BHC CONNECT](./uploads/project_69515e87a79db6.99159624.png)
-
-Digital barangay health center (patients, appointments, medicines). Badges: Patient records • Appointments • Medicine tracker.
-
-**HealthConnect**
-
-![HealthConnect](./uploads/project_69515eab615d28.86728134.png)
-
-Mobile health center app with patient management, immunization, and analytics. Badges: Patient management • Immunization • Analytics.
-
-**ImmuCare**
-
-![ImmuCare](./IMMUCARE.png)
-
-Smart immunization registry with scheduling, alerts, dashboards, and reports. Badges: Auto scheduling • Smart alerts • Tracking dashboard • Progress reports.
-
-**AidTrack**
-
-![AidTrack](./uploads/project_69515ed6960390.38492386.png)
-
-Aid distribution tracking with SMS alerts, analytics, and feedback for Barangay Bual. Badges: Aid tracking • SMS alerts • Analytics • Feedback.
-
-**BM-SCaPIS**
-
-![BM-SCaPIS](./uploads/project_69515f4f782610.95627406.png)
-
-Smart clearance and permit issuance with online forms, status tracking, scheduling, and reporting. Badges: Online forms • Status tracking • Scheduling • Reports.
+- **Monitoring of Liquidation of Scholarship Recipients** — SKSU system for tracking scholarship liquidation with reporting and analytics. Badges: Scholarship management, Liquidation tracking, Reports & analytics, SKSU official system.
+- **Russel's Chicken Delights HR System** — Full HR suite for restaurant chain (employees, time tracking, scheduling, payroll). Badges: Employee management, Time tracking, Scheduling, Payroll.
+- **KES-SMART** — Student monitoring with QR attendance and SMS notifications. Badges: QR attendance, SMS alerts, Multi-user.
+- **BHC CONNECT** — Digital barangay health center (patients, appointments, medicines). Badges: Patient records, Appointments, Medicine tracker.
+- **HealthConnect** — Mobile health center app with patient management, immunization, analytics. Badges: Patient management, Immunization, Analytics.
+- **ImmuCare** — Smart immunization registry with scheduling, alerts, dashboards, reports. Badges: Auto scheduling, Smart alerts, Tracking dashboard, Progress reports.
+- **AidTrack** — Aid distribution tracking with SMS alerts, analytics, feedback for Barangay Bual. Badges: Aid tracking, SMS alerts, Analytics, Feedback.
+- **BM-SCaPIS** — Smart clearance and permit issuance with online forms, status tracking, scheduling, reporting. Badges: Online forms, Status tracking, Scheduling, Reports.
 
 ## Contact
 - **Facebook:** https://www.facebook.com/russelicioush
